@@ -1,0 +1,2 @@
+# guildinfo
+guildinfo
